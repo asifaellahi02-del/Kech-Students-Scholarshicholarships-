@@ -1,0 +1,36 @@
+// Demonstration records only. Replace these with admin-verified opportunities.
+export const scholarships = [
+  {
+    id: "demo-1",
+    title: "Undergraduate Merit Scholarship",
+    provider: "Sample University",
+    category: "Merit-Based",
+    level: "Undergraduate",
+    location: "Balochistan",
+    deadline: "2027-02-15",
+    funding: "Illustrative funding",
+    description: "A sample listing used to demonstrate how scholarship opportunities will appear.",
+  },
+  {
+    id: "demo-2",
+    title: "Need-Based Education Support",
+    provider: "Sample Organization",
+    category: "Need-Based",
+    level: "Undergraduate",
+    location: "Kech",
+    deadline: "2027-03-20",
+    funding: "Illustrative support",
+    description: "A sample opportunity layout for students looking for need-based education support.",
+  },
+  {
+    id: "demo-3",
+    title: "Postgraduate Study Opportunity",
+    provider: "Sample Institute",
+    category: "Postgraduate",
+    level: "Masters",
+    location: "Balochistan",
+    deadline: "2027-04-10",
+    funding: "Illustrative funding",
+    description: "A sample postgraduate listing. Check official sources before relying on any opportunity.",
+  },
+];
